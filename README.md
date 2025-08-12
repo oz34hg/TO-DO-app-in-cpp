@@ -1,7 +1,7 @@
 # TO-DO-app-in-cpp
 
 
-main functions
+--main functions
 
 -ADD NEW TASKS
 -DELETE OLD ONES
