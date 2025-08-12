@@ -1,1 +1,10 @@
 # TO-DO-app-in-cpp
+
+
+main functions
+
+-ADD NEW TASKS
+-DELETE OLD ONES
+-CHECK THE ONES THAT ALREADY EXIST
+
+MORE TO BE ADDED....
