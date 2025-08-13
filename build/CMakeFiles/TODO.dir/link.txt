@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/TODO.dir/main.cpp.o CMakeFiles/TODO.dir/restore/restore.cpp.o CMakeFiles/TODO.dir/store/store.cpp.o CMakeFiles/TODO.dir/utils/utils.cpp.o -o TODO 

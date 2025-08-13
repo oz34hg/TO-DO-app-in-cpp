@@ -1,3 +1,0 @@
-/home/oreste/coding/c++/TODO/build/CMakeFiles/TODO.dir
-/home/oreste/coding/c++/TODO/build/CMakeFiles/edit_cache.dir
-/home/oreste/coding/c++/TODO/build/CMakeFiles/rebuild_cache.dir
